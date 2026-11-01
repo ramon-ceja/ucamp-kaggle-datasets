@@ -1,0 +1,20 @@
+# Required Python packages for the project
+
+# Required for numerical computations 
+numpy
+
+# Required for data manipulation and analysis
+pandas
+
+# Required for Jupyter notebook support
+ipykernel
+
+plotly
+
+kagglehub
+
+ipywidgets
+
+nbformat>=4.2.0
+
+scipy
